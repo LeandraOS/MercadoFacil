@@ -9,15 +9,15 @@ Um supermercado da cidade de Campina Grande precisa de um sistema que gerencie o
 - O modelo é composto pelas classes Produto.java e Lote.java que podem ser encontradas no pacote model;
 - O pacote exceptions guarda as classes de exceções que podem ser levantadas dentro do sistema;
 - Não há implementação de frontend, mas o projeto fornece uma interface de acesso à API via swagger.
-- 
+
 ## 💻 Tecnologias
-Código base gerado via start.sprint.io com as seguintes dependências:
-Spring Web
-Spring Actuator
-Spring Boot DevTools
-Spring Data JPA
-H2 Database
+- Código base gerado via start.sprint.io com as seguintes dependências:
+- Spring Web
+- Spring Actuator
+- Spring Boot DevTools
+- Spring Data JPA
+- H2 Database
 
 ## 🌐 Endereços úteis
-http://localhost:8080/swagger-ui.html
-http://localhost:8080/h2
+- http://localhost:8080/swagger-ui.html
+- http://localhost:8080/h2
